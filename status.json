@@ -2,5 +2,5 @@
  "status": "请用支付宝扫码或点按钮登录",
  "url": "https://qr.alipay.com/_d?_b=PAI_LOGIN_DY&securityId=web%257Cauthcenter_qrcode_login%257Cb4d0b7e1-8eca-4fec-b68f-3038f6022fdaRZ43",
  "app": "alipays://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https%3A%2F%2Fqr.alipay.com%2F_d%3F_b%3DPAI_LOGIN_DY%26securityId%3Dweb%25257Cauthcenter_qrcode_login%25257Cb4d0b7e1-8eca-4fec-b68f-3038f6022fdaRZ43",
- "ts": 1795769605
+ "ts": 1795769622
 }
